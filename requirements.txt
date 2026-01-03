@@ -1,8 +1,10 @@
-scikit-learn
-sastrawi
-numpy
-pandas
 fastapi
 uvicorn
+joblib
+scikit-learn
+numpy
+pandas
+nltk
+sastrawi
 python-dotenv
 groq
