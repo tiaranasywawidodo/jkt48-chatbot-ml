@@ -1,0 +1,94 @@
+{
+  "intents": [
+    {
+      "tag": "info_umum",
+      "patterns": [
+        "apa itu jkt48",
+        "jelaskan tentang jkt48",
+        "jkt48 itu apa",
+        "sejarah jkt48",
+        "tentang grup jkt48"
+      ]
+    },
+    {
+      "tag": "profil_jkt48",
+      "patterns": [
+        "siapa pendiri jkt48",
+        "kapan jkt48 berdiri",
+        "profil jkt48",
+        "asal jkt48",
+        "jkt48 berasal dari mana"
+      ]
+    },
+    {
+      "tag": "member_jkt48",
+      "patterns": [
+        "siapa member jkt48",
+        "berapa jumlah member jkt48",
+        "daftar member jkt48",
+        "member generasi pertama",
+        "member generasi terbaru"
+      ]
+    },
+    {
+      "tag": "generasi_jkt48",
+      "patterns": [
+        "berapa generasi jkt48",
+        "generasi jkt48",
+        "generasi pertama jkt48",
+        "generasi terbaru jkt48",
+        "list generasi jkt48"
+      ]
+    },
+    {
+      "tag": "jadwal_event",
+      "patterns": [
+        "jadwal event jkt48",
+        "kapan event jkt48",
+        "jadwal kegiatan jkt48",
+        "event jkt48 minggu ini",
+        "jadwal show jkt48"
+      ]
+    },
+    {
+      "tag": "teater_jkt48",
+      "patterns": [
+        "dimana teater jkt48",
+        "lokasi teater jkt48",
+        "teater jkt48 dimana",
+        "alamat teater jkt48",
+        "teater jkt48 ada dimana"
+      ]
+    },
+    {
+      "tag": "jam_operasional",
+      "patterns": [
+        "jam operasional teater jkt48",
+        "teater jkt48 buka jam berapa",
+        "jam buka teater jkt48",
+        "teater jkt48 buka kapan",
+        "jadwal buka teater jkt48"
+      ]
+    },
+    {
+      "tag": "harga_tiket",
+      "patterns": [
+        "harga tiket jkt48",
+        "tiket jkt48 berapa",
+        "berapa harga tiket teater jkt48",
+        "harga nonton jkt48",
+        "tiket teater jkt48"
+      ]
+    },
+    {
+      "tag": "cara_beli_tiket",
+      "patterns": [
+        "cara beli tiket jkt48",
+        "bagaimana beli tiket jkt48",
+        "cara membeli tiket teater jkt48",
+        "beli tiket jkt48 dimana",
+        "cara pesan tiket jkt48"
+      ]
+    }
+  ]
+}

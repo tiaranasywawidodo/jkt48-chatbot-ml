@@ -1,0 +1,8 @@
+scikit-learn
+sastrawi
+numpy
+pandas
+fastapi
+uvicorn
+python-dotenv
+groq
